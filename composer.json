@@ -1,9 +1,9 @@
 {
-    "name": "pixelink/kaltura",
+    "name": "sport1/kaltura",
     "type": "library",
     "description": "Kaltura API",
     "keywords": ["kaltura","api"],
-    "homepage": "http://github.com/Seldaek/monolog",
+    "homepage": "",
     "license": "GNU",
     "authors": [
         {
@@ -17,7 +17,7 @@
     },
     "autoload": {
         "psr-0": {
-            "Monolog": "src"
+            "KalturaClient": ""
         }
     }
 }
